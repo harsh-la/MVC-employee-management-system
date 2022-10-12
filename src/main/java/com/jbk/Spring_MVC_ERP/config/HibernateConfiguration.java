@@ -11,6 +11,7 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 
 import com.jbk.Spring_MVC_ERP.entity.Employee;
 
+// This is hibernate config file
 @Configuration
 public class HibernateConfiguration {
 

@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.jbk.Spring_MVC_ERP.entity.Employee;
 import com.jbk.Spring_MVC_ERP.service.EmployeeService;
-
+// login controller
 @Controller
 public class AuthController {
 
